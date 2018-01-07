@@ -42,8 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TestByDate.cs" />
-    <Compile Include="TestByText1.cs" />
-    <Compile Include="TestByText2.cs" />
+    <Compile Include="TestByTextForAllItems.cs" />
+    <Compile Include="TestByTextForEachItem.cs" />
     <Compile Include="TestByUser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestAndLogic.cs" />

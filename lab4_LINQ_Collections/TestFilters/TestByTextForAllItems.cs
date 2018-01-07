@@ -5,9 +5,9 @@ using System.Linq;
 
 namespace SimCorp.IMS.TestFilters {
     [TestClass]
-    public class TestbyText {
+    public class TestbyTextForAllItems {
         [TestMethod]
-        public void TestFilter_ByText_Filtered1() {
+        public void TestFilter_ByText_FilteredForAllItems() {
             //Arrange
             MyMessage message;
             List<MyMessage> myReceivedMessages = new List<MyMessage>();
